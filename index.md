@@ -1,4 +1,8 @@
-[![image](https://wcci2022.org/wp-content/uploads/2020/07/WCCI2022-padua-logo.png)](https://wcci2022.org/)
+<p align="center">
+  <a href="https://wcci2022.org/">
+    <img src="https://wcci2022.org/wp-content/uploads/2020/07/WCCI2022-padua-logo.png" />
+  </a>
+</p>
 
 ## Aim and Scope
 
@@ -31,6 +35,9 @@ Potential topics include but are not limited to the following:
 
 
 ## Organizers
-Dr. Mirko Polato, Department of Computer Science, University of Turin, Italy
-Prof. Fabio Aiolli, Department of Mathematics, University of Padua, Italy
+- Dr. Mirko Polato, Department of Computer Science, University of Turin, Italy\
+  mirko.polato@unito.it
+   
+- Prof. Fabio Aiolli, Department of Mathematics, University of Padua, Italy\
+  aiolli@math.unipd.it
 
