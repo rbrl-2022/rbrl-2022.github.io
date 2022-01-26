@@ -27,7 +27,8 @@ Potential topics include but are not limited to the following:
 
 ## Important Dates
 
-- **Paper submission: January 31, 2022 (11:59 PM AoE) STRICT DEADLINE**
+- **Title and abstract submission: January 31, 2022 (11:59 PM AoE) STRICT DEADLINE**
+- **Paper submission: February 14, 2022 (11:59 PM AoE) STRICT DEADLINE**
 - Notification of acceptance: April 26, 2022
 - Final paper submission: May 23, 2022
 
